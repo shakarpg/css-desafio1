@@ -38,6 +38,9 @@ Landing page inspirada na **Trilha de CSS da DIO**, feita com **HTML + CSS puro*
 6. Aguarde a publicação. A página ficará disponível em:
    `https://<seu-usuario>.github.io/trilha-css-dio/`
 
+##  Imagens do Projeto
+![Projeto](assets/images/cssdio.png)
+
 ## ✏️ Personalizações rápidas
 - Troque o link do botão "Quero me inscrever" no `index.html`.
 - Substitua as imagens em `assets/images/` mantendo os mesmos nomes para não ajustar o CSS.
