@@ -14,7 +14,8 @@ Landing page inspirada na **Trilha de CSS da DIO**, feita com **HTML + CSS puro*
         ├── dio-logo.png
         ├── logo.png
         ├── professional-challenges.png
-        └── woman-code.png
+        ├── woman-code.png
+        └── diocss.jpg
 ```
 
 ## 🚀 Como rodar localmente
@@ -39,7 +40,7 @@ Landing page inspirada na **Trilha de CSS da DIO**, feita com **HTML + CSS puro*
    `https://<seu-usuario>.github.io/trilha-css-dio/`
 
 ##  Imagens do Projeto
-![Projeto](assets/images/cssdio.png)
+![Projeto](assets/images/cssdio.jpg)
 
 ## ✏️ Personalizações rápidas
 - Troque o link do botão "Quero me inscrever" no `index.html`.
