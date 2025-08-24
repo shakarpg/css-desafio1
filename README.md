@@ -1,4 +1,4 @@
-# Trilha CSS — Landing Page (Clone)
+# Trilha CSS — Landing Page 
 
 Landing page inspirada na **Trilha de CSS da DIO**, feita com **HTML + CSS puro**, ideal para publicar no **GitHub Pages**.
 
@@ -42,4 +42,3 @@ Landing page inspirada na **Trilha de CSS da DIO**, feita com **HTML + CSS puro*
 - Troque o link do botão "Quero me inscrever" no `index.html`.
 - Substitua as imagens em `assets/images/` mantendo os mesmos nomes para não ajustar o CSS.
 
-Feito com ❤️ e foco em HTML/CSS.
